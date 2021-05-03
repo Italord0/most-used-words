@@ -11,6 +11,7 @@ import {
 import installExtension, {
   VUEJS_DEVTOOLS
 } from 'electron-devtools-installer'
+import './client/index'
 const isDevelopment = process.env.NODE_ENV !== 'production'
 const {
   title,

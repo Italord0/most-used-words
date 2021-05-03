@@ -1,24 +1,14 @@
-# most-used-words
+## :rocket: Most Used Word
 
-## Project setup
-```
-npm install
-```
+<p float="left">
+<img src="https://user-images.githubusercontent.com/32901063/116866901-7c38fc00-abe2-11eb-935d-44ea9bd95e73.png" width="400">
+</p>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## :rocket: Techs
+This project was developed with the following techs:
+- [Node.js](https://nodejs.org/en/)
+- [Vue](https://vuejs.org/)
+- [Electron](https://www.electronjs.org/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 💬 Project
+Desktop app to display the most used words in text file

@@ -4,20 +4,18 @@
       <v-toolbar-title> Most used words </v-toolbar-title>
     </v-app-bar>
 
-    <v-content> <Home/> </v-content>
+    <v-main> <Home /> </v-main>
   </v-app>
 </template>
 
 <script>
-
-import Home from './components/Home.vue';
+import Home from "./components/Home.vue";
 
 export default {
-  
   name: "App",
 
   components: {
-    Home
+    Home,
   },
 
   data: () => ({
